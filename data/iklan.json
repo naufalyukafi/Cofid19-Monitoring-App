@@ -1,0 +1,88 @@
+{
+    "ads": [
+        {
+            "id": 1,
+            "user": {
+                "name": "Hand Sanitizer, Gratis Bersyarat",
+                "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+            },
+            "saved": true,
+            "location": "Online",
+            "temperature": 34,
+            "title": "Hand Sanitizer",
+            "description": "Tidak perlu keluar rumah, anda tinggal mengunjungi link dibawah ada 10 handsanitizer gratis.",
+            "rating": 4.5,
+            "reviews": 3212,
+            "preview": "https://www.radarbandung.id/wp-content/uploads/2020/03/grafis-korona-640x446.jpg",
+            "images": [
+                "https://cdn1.productnation.co/stg/sites/5/hand_sani-1.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81Qs6vwvFUL._SL1500_.jpg",
+                "https://akcdn.detik.net.id/visual/2020/03/04/63b2f481-2a7a-42e9-900b-f6c4b84963a8_169.jpeg?w=650",
+                "https://cdn.monotaro.id/media/catalog/product/cache/6/thumbnail/a8ae72a294b582ef056dab34f66d4d07/e/m/emP102042526-5.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "user": {
+                "name": "Masker, COTTON 100%",
+                "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+            },
+            "saved": true,
+            "location": "Online",
+            "temperature": 34,
+            "title": "Maksker Cotton",
+            "description": "Bahan kain kami adalah katun nonwoven baru produksi langsung dari pabrik bukan hasil sisaan atau bekas.",
+            "rating": 4.1,
+            "reviews": 3212,
+            "preview": "https://asset.kompas.com/crops/at3596ERNXve3oK475ER_DPbO4Y=/394x0:5458x3376/750x500/data/photo/2020/02/27/5e5753ef77dcc.jpg",
+            "images": [
+                "https://id-test-11.slatic.net/p/e8bd677a04961d77c7c4b992f66fbc66.jpg_720x720q80.jpg_.webp",
+                "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//91/MTA-7242616/little_palmerhaus_little_palmerhaus_child_cotton_masker_anak_-_gray_-3_ply-_full04_ihr77wv4.jpg",
+                "https://img1.ralali.id/passthrough/assets/img/Libraries/Masker-Kain-Cotton-Hitam-Tali-Panjang_j9eksSCXQGJ7UtR4_1583415689.jpg",
+                "https://cdn.shopify.com/s/files/1/3003/2744/products/masker-brun2-7-copy_900x.jpg?v=1588646384"
+            ]
+        },
+        {
+            "id": 3,
+            "user": {
+                "name": "Bayar di tempat",
+                "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+            },
+            "saved": true,
+            "location": "Online",
+            "temperature": 34,
+            "title": "DANA APP",
+            "description": "Dompet Digital yang bisa diandalkan dengan sistem keamanan canggih dan berlapis.",
+            "rating": 4.5,
+            "reviews": 3212,
+            "preview": "https://jernih.co/wp-content/uploads/PAKAI-MASKEER.jpg",
+            "images": [
+                "https://1.bp.blogspot.com/-vM5knCRqd3U/XbhFcKUryEI/AAAAAAAACdU/kTLGv-8oV9Q7J22i9XhqglNQ-rcl2LzWACLcBGAsYHQ/s1600/cara%2Bmenggunakan%2Baplikasi%2Bdana%2Buntuk%2Bmembeli%2Bvoucher%2Bgame.jpg",
+                "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/09/02/850297567.jpg",
+                "https://1.bp.blogspot.com/-mYHBpGuPuz8/XR39CWZ3FhI/AAAAAAAAL0A/qN3Ud9sMVKcw1vGKzWgNMXdN-6IOX9mvgCLcBGAs/s1600/aplikasi-dana-id.jpg",
+                "https://lh3.googleusercontent.com/-RJK0wGPk54E/Xola0x3SJbI/AAAAAAAAAyo/GJLfju8imN8eBg4BlJ4URSe3E75jA5x2gCLcBGAsYHQ/s1600/status%2Bpayment.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "user": {
+                "name": "Peralatan Kebutuhan Anda",
+                "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+            },
+            "saved": true,
+            "location": "Online",
+            "temperature": 34,
+            "title": "Bunda Asih",
+            "description": "Promo! heboh semua kebutuhan Kesehatan Cuma Rabu dan Kamis, jangan sampai kelewatan",
+            "rating": 4.3,
+            "reviews": 3212,
+            "preview": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/03/18/2738524986.jpg",
+            "images": [
+                "https://img.my-best.id/press_component/item_part_images/ed5c50ce234f1fb6c6fccd94003c1626.jpg?ixlib=rails-3.1.0&auto=compress&q=70&lossless=0&w=640&h=640&fit=clip",
+                "https://cf.shopee.co.id/file/9b5f48099fad958020de6abc181faf0a",
+                "https://i0.wp.com/assets.cekresi.com/wp-content/uploads/2019/05/10_Sabun_Mandi_Wangi_dan_Anti_Bakteri.jpg?fit=940%2C626",
+                "https://assets.babyzania.com/image/cache/catalog/1/lifebuoy_lifebuoy-total-10-botol-sabun-cair--100-ml-_full04-800x800.jpg"
+            ]
+        }
+    ]
+}
